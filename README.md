@@ -1,8 +1,5 @@
-# Laravel 10 - Toko Online
+# Dr. Aquatic - Penjualan ikan hias dan koral 
 
-## Screenshots
-
-![preview img](/preview.png)
 
 ## Donwload
 
@@ -29,7 +26,7 @@ Masuk ke folder dengan perintah
 ```
 
 ```bash
-    php artisan artisan migrate:fresh --seed
+    php artisan artisan migrate --seed
 ```
 
 ```bash
@@ -38,5 +35,5 @@ Masuk ke folder dengan perintah
 
 #### Login
 
--   email = admin@admin.com
+-   email = admin@min
 -   password = 123
