@@ -18,6 +18,10 @@ Masuk ke folder dengan perintah
 -   Copy .env.example menjadi .env kemudia edit database dan api key nya
 
 ```bash
+    cp .env.example .env
+```
+
+```bash
     composer install
 ```
 
